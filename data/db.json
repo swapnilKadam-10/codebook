@@ -1,0 +1,334 @@
+{
+  "products": [
+    {
+      "id": "10001",
+      "name": "Basics To Advanced In React",
+      "overview": "Basics to Advanced in React teaches foundational concepts, state management, hooks, and advanced techniques for building dynamic web applications.",
+      "long_description": "Basics to Advanced in React covers everything from the fundamentals of component-based architecture and state management to advanced topics like hooks, context API, and performance optimization. It provides practical examples and in-depth explanations, helping developers master React and create sophisticated, responsive web applications.",
+      "price": 249,
+      "poster": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10001.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 5,
+      "best_seller": true
+    },
+    {
+      "id": "10002",
+      "name": "Django Framework for Beginners",
+      "overview": "Django Framework for Beginners introduces the basics of Django, covering models, views, templates, and creating robust web applications.",
+      "long_description": "Django Framework for Beginners provides a step-by-step guide to learning Django, from setting up the environment to building complete web applications. It covers essential concepts like models, views, templates, and URL routing, offering practical examples and exercises to help beginners grasp the fundamentals of this powerful framework.",
+      "price": 199,
+      "poster": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10002.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 2,
+      "best_seller": false
+    },
+    {
+      "id": "10003",
+      "name": "The Future of Design Systems",
+      "overview": "The Future of Design Systems explores emerging trends, technologies, and methodologies shaping the evolution of design systems in digital products.",
+      "long_description": "The Future of Design Systems delves into the latest advancements and future directions in design systems, focusing on integration with AI, enhanced collaboration tools, and scalable design practices. It provides insights into how these innovations will influence the creation and management of cohesive, adaptable design systems for digital products.",
+      "price": 299,
+      "poster": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10003.avif",
+      "rating": 3,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": "10004",
+      "name": "The Complete Guide to Backend Development",
+      "overview": "The Complete Guide to Backend Development covers essential concepts, tools, and best practices for building robust server-side applications.",
+      "long_description": "The Complete Guide to Backend Development provides a comprehensive overview of server-side programming, including database management, API creation, and security practices. It explores various technologies and frameworks, offering practical insights and examples to help developers build efficient, scalable, and secure backend systems.",
+      "price": 299,
+      "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10004.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 7,
+      "best_seller": true
+    },
+    {
+      "id": "10005",
+      "name": "Build a Blockchain from Scratch in Go",
+      "overview": "Build a Blockchain from Scratch in Go provides a comprehensive guide to creating a blockchain using the Go programming language.",
+      "long_description": "Build a Blockchain from Scratch in Go teaches you to develop a blockchain step-by-step using the Go programming language. Covering core concepts such as cryptographic hashing, consensus algorithms, and peer-to-peer networking, this guide offers practical examples and detailed explanations for building a fully functional blockchain.",
+      "price": 399,
+      "poster": "https://images.unsplash.com/photo-1639322537228-f710d846310a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10005.avif",
+      "rating": 3,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": "10006",
+      "name": "Frontend Fastlane Plan With Projects",
+      "overview": "Frontend Fastlane Plan With Projects is a structured roadmap, guiding developers through essential frontend skills with practical projects.",
+      "long_description": "Frontend Fastlane Plan With Projects offers a comprehensive learning path for aspiring frontend developers. It covers key topics like HTML, CSS, JavaScript, and popular frameworks through hands-on projects. This plan ensures a solid understanding of frontend technologies, enabling developers to build responsive, interactive web applications efficiently.",
+      "price": 99,
+      "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10006.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 10,
+      "best_seller": false
+    },
+    {
+      "id": "10007",
+      "name": "Master the Code Review",
+      "overview": "Master the Code Review teaches best practices, techniques, and tools for conducting effective and constructive code reviews.",
+      "long_description": "Master the Code Review provides a thorough guide to performing efficient code reviews. It covers key practices for readability, maintainability, and performance, along with techniques for providing constructive feedback. By mastering these skills, developers can improve code quality and team collaboration, fostering a healthier development environment.",
+      "price": 299,
+      "poster": "https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10007.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 2,
+      "best_seller": false
+    },
+    {
+      "id": "10008",
+      "name": "JavaScript Basics To Advance ",
+      "overview": "JavaScript Basics to Advanced covers fundamental concepts, advanced techniques, and modern practices for mastering JavaScript development.",
+      "long_description": "JavaScript Basics to Advanced provides a comprehensive journey through JavaScript, from core syntax and data structures to advanced topics like asynchronous programming, ES6+ features, and best practices. This guide equips developers with the skills needed to build robust, efficient, and modern web applications using JavaScript.",
+      "price": 149,
+      "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10008.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": true
+    },
+    {
+      "id": "10009",
+      "name": "Python Deep Dive With Projects",
+      "overview": "Python Deep Dive With Projects explores advanced Python concepts and applies them in hands-on projects for practical learning.",
+      "long_description": "Python Deep Dive With Projects provides an in-depth exploration of advanced Python topics, including data structures, algorithms, and libraries. It combines theoretical knowledge with practical application through hands-on projects, enabling developers to master Python and apply it to real-world scenarios effectively.",
+      "price": 99,
+      "poster": "https://images.unsplash.com/photo-1624953587687-daf255b6b80a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10009.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": "10010",
+      "name": "Mastering Software Technique",
+      "overview": "Mastering Software Technique covers essential skills, methodologies, and best practices for professional software development and engineering.",
+      "long_description": "Mastering Software Technique provides a comprehensive guide to essential software development skills, including design patterns, testing, version control, and agile methodologies. This book equips developers with the knowledge and best practices needed to create high-quality, maintainable software in a professional engineering environment.",
+      "price": 149,
+      "poster": "https://images.unsplash.com/photo-1623479322729-28b25c16b011?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10010.avif",
+      "rating": 4,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": "10011",
+      "name": "Web Development Foundation",
+      "overview": "Web Development Foundation covers essential concepts, tools, and languages for building modern, responsive web applications.",
+      "long_description": "Web Development Foundation offers a comprehensive introduction to the core principles and technologies of web development. It covers HTML, CSS, JavaScript, and frameworks like React and Vue.js, providing hands-on exercises and projects to solidify learning. This foundation prepares beginners to create dynamic, user-friendly websites and web applications.",
+      "price": 99,
+      "poster": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10011.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": true
+    },
+    {
+      "id": "10012",
+      "name": "Mastering Git and GitHub - A Practical Guide",
+      "overview": "Mastering Git and GitHub - A Practical Guide teaches essential Git version control and GitHub collaboration skills effectively.",
+      "long_description": "Mastering Git and GitHub - A Practical Guide provides a hands-on approach to mastering Git version control and GitHub collaboration. It covers fundamental commands, branching strategies, merging, pull requests, and best practices for effective teamwork. This guide ensures developers understand and apply Git and GitHub effectively in real-world projects.",
+      "price": 99,
+      "poster": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10012.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": "10013",
+      "name": "Everything About React v19",
+      "overview": "Everything About React v19 covers new features, optimizations, and best practices in the latest iteration of the React library.",
+      "long_description": "Everything About React v19 explores the latest advancements in React, introducing new features such as improved concurrent rendering, enhanced state management capabilities, and optimizations for performance. This comprehensive guide provides insights into adopting React v19, including best practices and practical examples for building modern, scalable web applications.",
+      "price": 459,
+      "poster": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10013.avif",
+      "rating": 4,
+      "in_stock": false,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": "10014",
+      "name": "Diving Deep With Python 2.7",
+      "overview": "Diving Deep with Python 3.4 explores advanced features, libraries, and techniques for mastering Python programming in version 3.4.",
+      "long_description": "Diving Deep with Python 3.4 offers an in-depth exploration of advanced Python programming, covering new features introduced in Python 3.4, such as async/await, pathlib, and improvements to the standard library. It provides practical examples and insights to help developers leverage Python 3.4 effectively for building robust applications and scripts.",
+      "price": 249,
+      "poster": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10014.avif",
+      "rating": 4,
+      "in_stock": false,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": "10015",
+      "name": "Kickstart Your UI Design Career",
+      "overview": "Kickstart Your UI Design Career provides essential skills, tools, and strategies for launching and advancing in UI design.",
+      "long_description": "Kickstart Your UI Design Career offers a comprehensive roadmap to starting and progressing in UI design. It covers fundamental design principles, UI/UX tools like Figma and Sketch, prototyping, and portfolio building. This guide equips beginners with the knowledge and resources needed to succeed in the competitive field of UI design.",
+      "price": 149,
+      "poster": "https://images.unsplash.com/photo-1587440871875-191322ee64b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10015.avif",
+      "rating": 2,
+      "in_stock": false,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": "10016",
+      "name": "AI Essentials",
+      "overview": "AI Essentials provides foundational knowledge in artificial intelligence, covering algorithms, applications, and ethical considerations.",
+      "long_description": "AI Essentials introduces key concepts in AI, including machine learning, neural networks, and natural language processing. It explores real-world applications and ethical implications, preparing learners for careers in AI-driven industries.",
+      "price": 199,
+      "poster": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "rating": 4.5,
+      "in_stock": true,
+      "size": 2,
+      "best_seller": true
+    },
+    {
+      "id": "10017",
+      "name": "Machine Learning Mastery",
+      "overview": "Machine Learning Mastery covers advanced algorithms, data preprocessing, and model evaluation techniques for mastering machine learning.",
+      "long_description": "Machine Learning Mastery dives into advanced ML algorithms, feature engineering, and model optimization. It includes practical projects and case studies, equipping learners with skills to tackle complex data challenges.",
+      "price": 249,
+      "poster": "https://images.unsplash.com/photo-1587440871875-191322ee64b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "rating": 4.7,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": true
+    },
+    {
+      "id": "10018",
+      "name": "Android App Development",
+      "overview": "Android App Development teaches app architecture, UI design, and backend integration using Java/Kotlin and Android Studio.",
+      "long_description": "Android App Development covers UI/UX design principles, responsive layout implementation, and data handling with SQLite and Firebase. It includes hands-on projects to build market-ready Android applications.",
+      "price": 179,
+      "poster": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "rating": 4.3,
+      "in_stock": true,
+      "size": 2,
+      "best_seller": false
+    },
+    {
+      "id": "10019",
+      "name": "Flutter Development Bootcamp",
+      "overview": "Flutter Development Bootcamp covers Dart programming, widget creation, and cross-platform app development with Flutter framework.",
+      "long_description": "Flutter Development Bootcamp teaches Dart language fundamentals, Flutter widget customization, and responsive UI development. It includes real-world projects to build scalable mobile apps for iOS and Android platforms.",
+      "price": 199,
+      "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "rating": 4.6,
+      "in_stock": true,
+      "size": 2,
+      "best_seller": true
+    },
+    {
+      "id": "10020",
+      "name": "Node.js Web Applications",
+      "overview": "Node.js Web Applications covers server-side JavaScript, RESTful API development, and MongoDB integration for building scalable web apps.",
+      "long_description": "Node.js Web Applications explores asynchronous programming with Node.js, Express.js framework usage, and MongoDB database integration. It includes practical projects to create RESTful APIs and deploy web applications.",
+      "price": 179,
+      "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "rating": 4.4,
+      "in_stock": true,
+      "size": 2,
+      "best_seller": false
+    }
+  ],
+  "featured_products": [
+    {
+      "id": "10004",
+      "name": "The Complete Guide to Backend Development",
+      "overview": "The Complete Guide to Backend Development covers essential concepts, tools, and best practices for building robust server-side applications.",
+      "long_description": "The Complete Guide to Backend Development provides a comprehensive overview of server-side programming, including database management, API creation, and security practices. It explores various technologies and frameworks, offering practical insights and examples to help developers build efficient, scalable, and secure backend systems.",
+      "price": 299,
+      "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10004.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 7,
+      "best_seller": true
+    },
+    {
+      "id": "10019",
+      "name": "Flutter Development Bootcamp",
+      "overview": "Flutter Development Bootcamp covers Dart programming, widget creation, and cross-platform app development with Flutter framework.",
+      "long_description": "Flutter Development Bootcamp teaches Dart language fundamentals, Flutter widget customization, and responsive UI development. It includes real-world projects to build scalable mobile apps for iOS and Android platforms.",
+      "price": 199,
+      "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "rating": 4.6,
+      "in_stock": true,
+      "size": 2,
+      "best_seller": true
+    },
+    {
+      "id": "10016",
+      "name": "AI Essentials",
+      "overview": "AI Essentials provides foundational knowledge in artificial intelligence, covering algorithms, applications, and ethical considerations.",
+      "long_description": "AI Essentials introduces key concepts in AI, including machine learning, neural networks, and natural language processing. It explores real-world applications and ethical implications, preparing learners for careers in AI-driven industries.",
+      "price": 199,
+      "poster": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "rating": 4.5,
+      "in_stock": true,
+      "size": 2,
+      "best_seller": true
+    }
+  ],
+  "orders": [
+    {
+      "cartList": [
+        {
+          "id": "10016",
+          "name": "AI Essentials",
+          "overview": "AI Essentials provides foundational knowledge in artificial intelligence, covering algorithms, applications, and ethical considerations.",
+          "long_description": "AI Essentials introduces key concepts in AI, including machine learning, neural networks, and natural language processing. It explores real-world applications and ethical implications, preparing learners for careers in AI-driven industries.",
+          "price": 199,
+          "poster": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+          "rating": 4.5,
+          "in_stock": true,
+          "size": 2,
+          "best_seller": true
+        }
+      ],
+      "amount_paid": 199,
+      "quantity": 1,
+      "user": {
+        "name": "swapnil",
+        "email": "swapnilkadam5945@gmail.com",
+        "id": 1
+      },
+      "id": 1
+    }
+    
+    
+  ],
+  "users": [
+    {
+      "email": "swapnil@gmail.com",
+      "password": "$2a$10$.oKO0HT3eh9MLSkxw3IT3ebCUI0qJGal/xJMO.egm/MxDlWDDrWpG",
+      "name": "swapnil",
+      "id": 1
+    }
+  ]
+}
