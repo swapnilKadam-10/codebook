@@ -8,7 +8,7 @@ import {
   CartPage,
   OrderPage,
   DashboardPage,
-  PageNotFound
+  PageNotFound,
 } from "../pages";
 import { ProtectedRoute } from "./ProtectedRoute";
 
