@@ -16,7 +16,7 @@ export const Faq = () => {
       {
         "id": 3,
         "question": "Do you offer refunds?",
-        "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse iste dolor deserunt expedita quam fugit et inventore amet pariatur. Animi."
+        "answer": "No, we don`t have refund policy."
       },
       {
         "id": 4,
