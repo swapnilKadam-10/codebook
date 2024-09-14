@@ -16,6 +16,10 @@ main{
   margin-top: 50px;
 }
 
+.toast-text{
+  color: black;
+}
+
 
 
 @tailwind base;

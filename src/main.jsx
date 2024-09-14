@@ -15,7 +15,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
       <CartProvider >
       <FilterProvider>
         <ScrollToTop />
-        <ToastContainer closeButton={false} position={"top-center"} autoClose={2000}/>
+        <ToastContainer closeButton={false} position={"top-center"} autoClose={2000} className={"text-red-600"}/>
         <App />
       </FilterProvider>
       </CartProvider>
